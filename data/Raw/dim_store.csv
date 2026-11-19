@@ -1,0 +1,42 @@
+﻿store_id,store_name,city,state,region,store_type,open_date
+S001,UrbanCart Mumbai 1,Mumbai,Maharashtra,West,Mall,2015-07-18
+S002,UrbanCart Pune 1,Pune,Maharashtra,West,Mall,2016-08-21
+S003,UrbanCart Ahmedabad 1,Ahmedabad,Gujarat,West,Outlet,2018-12-20
+S004,UrbanCart Delhi 1,Delhi,Delhi,north,Mall,2019-10-26
+S005,UrbanCart Gurugram 1,Gurugram,Haryana,North,Mall,2018-08-17
+S006,UrbanCart Jaipur 1,Jaipur,Rajasthan,North,Mall,2016-01-18
+S007,UrbanCart Lucknow 1,Lucknow,Uttar Pradesh,North,High Street,2015-07-28
+S008,UrbanCart Chandigarh 1,Chandigarh,Chandigarh,North,Mall,2022-01-15
+S009,UrbanCart Bengaluru 1,Bengaluru,Karnataka,South,Mall,2020-01-30
+S010,UrbanCart Chennai 1,Chennai,Tamil Nadu,South,Mall,2018-07-02
+S011,UrbanCart Hyderabad 1,Hyderabad,Telangana,South,Outlet,2018-08-31
+S012,UrbanCart Kochi 1,Kochi,Kerala,South,Mall,2018-09-06
+S013,UrbanCart Kolkata 1,Kolkata,West Bengal,East,Outlet,2017-01-01
+S014,UrbanCart Bhubaneswar 1,Bhubaneswar,Odisha,East,High Street,2017-04-21
+S015,UrbanCart Patna 1,Patna,Bihar,East,Mall,2020-11-06
+S016,UrbanCart Guwahati 1,Guwahati,Assam,East,High Street,2015-07-17
+S017,UrbanCart Indore 1,Indore,Madhya Pradesh,Central,High Street,2016-09-03
+S018,UrbanCart Nagpur 1,Nagpur,Maharashtra,Central,Outlet,2018-11-05
+S019,UrbanCart Raipur 1,Raipur,Chhattisgarh,Central,Mall,2021-11-16
+S020,UrbanCart Bhopal 1,Bhopal,Madhya Pradesh,Central ,Mall,2020-10-28
+S021,UrbanCart Mumbai 2,Mumbai,Maharashtra,West,High Street,2017-06-19
+S022,UrbanCart Pune 2,Pune,Maharashtra,West,High Street,2020-08-20
+S023,UrbanCart Ahmedabad 2,Ahmedabad,Gujarat,West,Mall,2017-05-05
+S024,UrbanCart Delhi 2,Delhi,Delhi,North,Mall,2018-10-26
+S025,UrbanCart Gurugram 2,Gurugram,Haryana,North,Mall,2022-10-12
+S026,UrbanCart Jaipur 2,Jaipur,Rajasthan,North,Outlet,2016-04-13
+S027,UrbanCart Lucknow 2,Lucknow,Uttar Pradesh,North,High Street,2016-08-08
+S028,UrbanCart Chandigarh 2,Chandigarh,Chandigarh,North,Outlet,2019-02-23
+S029,UrbanCart Bengaluru 2,Bengaluru,Karnataka,South,Mall,2017-08-13
+S030,UrbanCart Chennai 2,Chennai,Tamil Nadu,South,Mall,2018-06-29
+S031,UrbanCart Hyderabad 2,Hyderabad,Telangana,SOUTH,High Street,2017-12-15
+S032,UrbanCart Kochi 2,Kochi,Kerala,South,Mall,2020-08-02
+S033,UrbanCart Kolkata 2,Kolkata,West Bengal,East,Mall,2018-06-16
+S034,UrbanCart Bhubaneswar 2,Bhubaneswar,Odisha,East,Mall,2015-11-23
+S035,UrbanCart Patna 2,Patna,Bihar,East,Mall,2019-01-17
+S036,UrbanCart Guwahati 2,Guwahati,Assam,East,High Street,2021-10-29
+S037,UrbanCart Indore 2,Indore,Madhya Pradesh,Central,High Street,2021-09-09
+S038,UrbanCart Nagpur 2,Nagpur,Maharashtra,Central,Mall,2020-03-15
+S039,UrbanCart Raipur 2,Raipur,Chhattisgarh,Central,Mall,2017-03-04
+S040,UrbanCart Bhopal 2,Bhopal,Madhya Pradesh,Central,Outlet,2016-01-09
+S041,UrbanCart Online,Online,Online,Online,Online,2018-04-01

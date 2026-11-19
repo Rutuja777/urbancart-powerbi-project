@@ -1,0 +1,307 @@
+﻿product_id,product_name,category,sub_category,brand,unit_cost,list_price
+P0143,Sparrow Storage 194,Home & Kitchen,Storage,Sparrow,1441.54,2439
+P0055,Zenith Sneakers 761,Footwear,Sneakers,Zenith,2965.36,4299
+P0155,Metro Storage 379,Home & Kitchen,Storage,Metro,2575.02,4159
+P0288,UrbanEdge Board Games 758,Toys,Board Games,UrbanEdge,1355.94,1849
+P0216,Sparrow Staples 949,Grocery,Staples,Sparrow,422.35,759
+P0163,Aurora Appliances 237,Home & Kitchen,Appliances,Aurora,2981.51,5539
+P0092,NovaWear Power Banks 627,Electronics,Power Banks,NovaWear,2053.27,4049
+P0195,TrueNorth Fragrance 121,Beauty,Fragrance,TrueNorth,947.69,1609
+P0182,UrbanEdge Haircare 398,Beauty,Haircare,,1484.77,1999
+P0030,NovaWear T-Shirts 735,Apparel ,T-Shirts,NovaWear,1258.26,2289
+P0043,PureLife Dresses 595,Apparel,Dresses,PureLife,1679.0,3279
+P0085,Sparrow Sneakers 931,Footwear,Sneakers,Sparrow,3427.44,5759
+P0073,Zenith Sandals 666,Footwear,Sandals,Zenith,3695.3,5699
+P0271,Zenith Soft Toys 274,Toys,Soft Toys,Zenith,1149.8,1959
+P0045,KiteCo Sandals 535,Footwear,Sandals,KiteCo,2278.36,4169
+P0224,BlueOak Snacks 226,Grocery,Snacks,BlueOak,465.19,879
+P0061,Metro Sports Shoes 536,Footwear,Sports Shoes,Metro,1278.98,2309
+P0150,Metro Bedding 672,Home & Kitchen,Bedding,Metro,6368.93,9689
+P0298,PureLife Outdoor 849,Toys,Outdoor,PureLife,688.83,1189
+P0282,KiteCo Board Games 610,Toys,Board Games,KiteCo,1494.78,2579
+P0135,Metro Bedding 239,Home & Kitchen,Bedding,Metro,4529.44,7979
+P0001,NovaWear T-Shirts 328,Apparel,T-Shirts,NovaWear,1024.85,1389
+P0032,Metro T-Shirts 806,Apparel,T-Shirts,Metro,884.05,1369
+P0076,UrbanEdge Sneakers 327,Footwear,Sneakers,UrbanEdge,2236.64,3989
+P0059,Sparrow Sneakers 690,Footwear,Sneakers,Sparrow,1187.75,2269
+P0246,Metro Staples 723,Grocery,Staples,Metro,235.76,389
+P0197,UrbanEdge Haircare 450,Beauty,Haircare,,644.84,1019
+P0102,PureLife Chargers 986,Electronics,Chargers,PureLife,3388.0,4829
+P0070,Sparrow Sandals 800,Footwear,Sandals,Sparrow,805.79,1589
+P0160,NovaWear Cookware 704,Home & Kitchen,Cookware,NovaWear,4702.04,8189
+P0047,BlueOak Sandals 394,Footwear,Sandals,BlueOak,1260.66,2019
+P0272,NovaWear Soft Toys 499,Toys,Soft Toys,NovaWear,528.67,939
+P0107,NovaWear Chargers 374,Electronics,Chargers,NovaWear,15572.06,24319
+P0021,UrbanEdge Jeans 253,Apparel,Jeans,UrbanEdge,742.54,1309
+P0005,Aurora T-Shirts 315,Apparel,T-Shirts,Aurora,1959.51,2919
+P0162,Metro Appliances 728,Home & Kitchen,Appliances,Metro,5634.68,8049
+P0242,KiteCo Organic 312,Grocery,Organic,KiteCo,204.7,299
+P0209,Aurora Skincare 760,Beauty,Skincare,Aurora,425.16,799
+P0189,Sparrow Haircare 874,Beauty,Haircare,Sparrow,523.99,819
+P0241,KiteCo Organic 639,Grocery,Organic,KiteCo,165.47,259
+P0154,KiteCo Bedding 394,Home & Kitchen,Bedding,KiteCo,4799.54,6589
+P0212,TrueNorth Haircare 944,Beauty,Haircare,TrueNorth,814.47,1599
+P0007,NovaWear Jackets 840,Apparel,Jackets,NovaWear,2198.76,3499
+P0046,Zenith Sports Shoes 452,Footwear,Sports Shoes,Zenith,3151.17,5289
+P0051,Zenith Sandals 460,Footwear,Sandals,Zenith,3403.86,5789
+P0123,Metro Chargers 361,Electronics,Chargers,Metro,5168.16,8919
+P0098,NovaWear Speakers 897,Electronics,Speakers,NovaWear,13472.12,22979
+P0177,PureLife Makeup 152,Beauty,Makeup,PureLife,646.36,1289
+P0080,KiteCo Sports Shoes 292,Footwear,Sports Shoes,KiteCo,3635.16,5439
+P0013,BlueOak Jackets 677,Apparel,Jackets,BlueOak,1028.16,1629
+P0277,Metro Board Games 502,Toys,Board Games,Metro,1979.16,3679
+P0056,NovaWear Sneakers 398,Footwear,Sneakers,NovaWear,1894.86,3329
+P0245,NovaWear Staples 776,Grocery,Staples,NovaWear,435.8,639
+P0247,BlueOak Organic 873,grocery,Organic,BlueOak,460.49,619
+P0215,Sparrow Fragrance 445,Beauty,Fragrance,Sparrow,1574.09,2249
+P0020,BlueOak Dresses 543,Apparel,Dresses,BlueOak,1794.43,2559
+P0178,KiteCo Fragrance 483,Beauty,Fragrance,KiteCo,1241.21,2289
+P0034,Zenith Dresses 238,Apparel,Dresses,Zenith,785.17,1299
+P0239,TrueNorth Staples 418,Grocery,Staples,TrueNorth,227.91,319
+P0077,BlueOak Sandals 824,Footwear,Sandals,BlueOak,4075.0,5609
+P0109,Aurora Power Banks 197,Electronics,Power Banks,,12066.28,18049
+P0050,BlueOak Sneakers 658,Footwear,Sneakers,BlueOak,3531.32,5339
+P0037,UrbanEdge T-Shirts 126,Apparel,T-Shirts,UrbanEdge,1970.81,2979
+P0238,TrueNorth Snacks 886,Grocery,Snacks,TrueNorth,262.72,399
+P0159,Metro Storage 454,Home & Kitchen,Storage,Metro,5030.24,9679
+P0263,TrueNorth Outdoor 522,Toys,Outdoor,TrueNorth,1509.5,2919
+P0002,TrueNorth Dresses 660,Apparel,Dresses,TrueNorth,1409.4,2329
+P0243,KiteCo Organic 371,Grocery,Organic,KiteCo,133.0,189
+P0281,Aurora Soft Toys 306,Toys,Soft Toys,Aurora,1890.15,3759
+P0284,Metro Board Games 801,Toys,Board Games,Metro,1043.01,1559
+P0124,UrbanEdge Speakers 759,Electronics,Speakers,UrbanEdge,15712.94,22139
+P0286,Sparrow Educational 749,Toys,Educational,Sparrow,711.66,969
+P0042,Zenith Jackets 146,Apparel,Jackets,Zenith,330.24,499
+P0261,KiteCo Outdoor 253,Toys,Outdoor,KiteCo,471.23,919
+P0063,BlueOak Formal Shoes 999,Footwear,Formal Shoes,BlueOak,3363.05,5709
+P0071,PureLife Sports Shoes 123,Footwear,Sports Shoes,PureLife,3761.22,5399
+P0083,NovaWear Formal Shoes 118,Footwear,Formal Shoes,NovaWear,2009.63,3549
+P0188,TrueNorth Makeup 282,Beauty,Makeup,TrueNorth,1055.18,1729
+P0297,TrueNorth Soft Toys 886,Toys ,Soft Toys,TrueNorth,1717.7,2509
+P0022,Metro Dresses 468,Apparel,Dresses,Metro,2368.3,3379
+P0223,UrbanEdge Beverages 658,Grocery,Beverages,UrbanEdge,229.35,419
+P0176,NovaWear Makeup 924,Beauty,Makeup,NovaWear,685.57,1299
+P0183,PureLife Skincare 107,Beauty,Skincare,PureLife,324.8,629
+P0026,Zenith Dresses 535,APPAREL,Dresses,Zenith,875.86,1199
+P0060,TrueNorth Formal Shoes 138,Footwear,Formal Shoes,TrueNorth,1411.61,2299
+P0203,Metro Skincare 929,Beauty,Skincare,Metro,296.65,419
+P0010,Metro T-Shirts 532,Apparel,T-Shirts,Metro,1793.81,3029
+P0168,Sparrow Appliances 981,Home & Kitchen,Appliances,Sparrow,4199.47,6999
+P0257,PureLife Staples 219,Grocery,Staples,PureLife,114.25,159
+P0090,BlueOak Headphones 464,Electronics,Headphones,BlueOak,14072.3,21259
+P0113,Metro Chargers 971,Electronics,Chargers,Metro,9584.33,14679
+P0194,BlueOak Makeup 786,Beauty,Makeup,BlueOak,269.12,399
+P0157,TrueNorth Bedding 748,Home & Kitchen,Bedding,TrueNorth,5955.23,9699
+P0145,Aurora Cookware 700,Home & Kitchen,Cookware,Aurora,2505.31,4869
+P0138,TrueNorth Bedding 162,Home & Kitchen,Bedding,TrueNorth,1104.53,1569
+P0066,NovaWear Sandals 266,Footwear,Sandals,NovaWear,2469.24,3629
+P0202,UrbanEdge Fragrance 554,Beauty,Fragrance,UrbanEdge,1695.97,2849
+P0064,NovaWear Sneakers 404,Footwear,Sneakers,,1234.61,2119
+P0027,Metro Jackets 479,apparel,Jackets,Metro,2191.01,3309
+P0255,Sparrow Staples 567,Grocery,Staples,Sparrow,621.07,839
+P0042,Zenith Jackets 146,Apparel,Jackets,Zenith,330.24,499
+P0103,TrueNorth Chargers 490,Electronics,Chargers,TrueNorth,11215.29,19089
+P0108,BlueOak Chargers 122,Electronics,Chargers,BlueOak,9590.74,14569
+P0253,KiteCo Staples 102,Grocery,Staples,KiteCo,611.91,829
+P0121,BlueOak Smartwatches 145,Electronics,Smartwatches,BlueOak,1787.75,3149
+P0111,UrbanEdge Smartwatches 509,Electronics,Smartwatches,UrbanEdge,7215.75,10899
+P0094,Zenith Power Banks 208,Electronics,Power Banks,Zenith,2792.07,4279
+P0184,KiteCo Fragrance 173,Beauty,Fragrance,KiteCo,975.31,1909
+P0128,KiteCo Power Banks 594,Electronics,Power Banks,,11899.37,17209
+P0127,NovaWear Smartwatches 843,Electronics ,Smartwatches,NovaWear,10379.39,14749
+P0149,Aurora Appliances 821,Home & Kitchen,Appliances,Aurora,4481.62,7289
+P0112,KiteCo Smartwatches 233,Electronics,Smartwatches,KiteCo,485.56,759
+P0062,KiteCo Sneakers 498,Footwear,Sneakers,KiteCo,3082.34,4309
+P0012,TrueNorth T-Shirts 996,Apparel,T-Shirts,TrueNorth,1204.4,1719
+P0264,UrbanEdge Outdoor 394,Toys,Outdoor,UrbanEdge,1238.24,1879
+P0204,Metro Skincare 887,Beauty,Skincare,Metro,1889.35,2559
+P0025,NovaWear Kurtas 548,Apparel ,Kurtas,,1005.57,1379
+P0068,Aurora Formal Shoes 525,Footwear,Formal Shoes,Aurora,482.75,749
+P0265,KiteCo Board Games 858,Toys,Board Games,KiteCo,1955.34,3219
+P0234,KiteCo Organic 829,Grocery,Organic,KiteCo,131.35,199
+P0028,Zenith T-Shirts 560,apparel,T-Shirts,Zenith,713.45,999
+P0079,Metro Sandals 661,Footwear,Sandals,Metro,1610.21,2619
+P0300,PureLife Board Games 416,Toys,Board Games,PureLife,1081.99,1949
+P0279,UrbanEdge Outdoor 169,Toys,Outdoor,UrbanEdge,803.95,1399
+P0074,Sparrow Sneakers 939,Footwear,Sneakers,Sparrow,3042.0,4109
+P0115,Aurora Headphones 118,Electronics,Headphones,Aurora,12274.75,16689
+P0193,Zenith Fragrance 101,Beauty,Fragrance,,413.76,649
+P0099,KiteCo Headphones 871,Electronics,Headphones,KiteCo,14104.4,20309
+P0029,Sparrow T-Shirts 956,APPAREL,T-Shirts,Sparrow,416.1,679
+P0008,KiteCo Kurtas 568,Apparel,Kurtas,KiteCo,430.84,679
+P0258,NovaWear Snacks 703,Grocery,Snacks,NovaWear,572.12,819
+P0179,UrbanEdge Skincare 323,Beauty,Skincare,UrbanEdge,645.35,879
+P0091,Zenith Power Banks 422,ELECTRONICS,Power Banks,Zenith,2949.6,4689
+P0169,TrueNorth Storage 288,Home & Kitchen,Storage,TrueNorth,2712.34,4359
+P0175,Sparrow Fragrance 274,Beauty,Fragrance,Sparrow,1583.62,2449
+P0283,TrueNorth Outdoor 324,Toys,Outdoor,TrueNorth,1771.44,2789
+P0108,BlueOak Chargers 122,Electronics,Chargers,BlueOak,9590.74,14569
+P0239,TrueNorth Staples 418,Grocery,Staples,TrueNorth,227.91,319
+P0122,PureLife Smartwatches 582,Electronics,Smartwatches,PureLife,8783.8,13979
+P0233,NovaWear Snacks 148,Grocery,Snacks,NovaWear,252.2,429
+P0191,Zenith Skincare 680,Beauty,Skincare,Zenith,103.2,199
+P0081,UrbanEdge Sandals 462,Footwear,Sandals,UrbanEdge,2147.86,3989
+P0009,TrueNorth Jeans 416,Apparel,Jeans,TrueNorth,2108.42,3119
+P0256,TrueNorth Snacks 155,Grocery,Snacks,TrueNorth,392.53,619
+P0167,Aurora Bedding 834,Home & Kitchen,Bedding,,2025.42,3279
+P0084,KiteCo Sandals 686,Footwear,Sandals,KiteCo,3496.87,5189
+P0053,Sparrow Sandals 235,Footwear,Sandals,Sparrow,2357.16,3679
+P0014,TrueNorth Jackets 329,Apparel,Jackets,TrueNorth,1394.87,1989
+P0156,Zenith Storage 673,Home & Kitchen,Storage,Zenith,2687.93,5029
+P0044,Sparrow Sneakers 241,Footwear,Sneakers,Sparrow,821.6,1299
+P0226,NovaWear Beverages 167,Grocery,Beverages,NovaWear,231.07,319
+P0023,Sparrow Jeans 885,Apparel,Jeans,Sparrow,751.26,1209
+P0146,Sparrow Storage 295,Home & Kitchen,Storage,Sparrow,1769.0,3489
+P0019,Sparrow Dresses 918,Apparel,Dresses,Sparrow,1236.02,1649
+P0250,UrbanEdge Organic 717,Grocery,Organic,UrbanEdge,35.6,59
+P0036,BlueOak Jeans 175,Apparel,Jeans,BlueOak,1153.2,1559
+P0232,Metro Organic 609,Grocery,Organic,Metro,305.88,409
+P0011,Metro T-Shirts 988,Apparel,T-Shirts,Metro,1059.5,1639
+P0072,KiteCo Sneakers 422,Footwear,Sneakers,KiteCo,1294.58,2089
+P0105,KiteCo Chargers 961,Electronics,Chargers,KiteCo,4531.66,8559
+P0052,Sparrow Sandals 869,Footwear,Sandals,Sparrow,807.33,1189
+P0134,Sparrow Appliances 229,Home & Kitchen,Appliances,Sparrow,1602.52,2639
+P0170,Metro Appliances 704,Home & Kitchen,Appliances,Metro,1125.03,2129
+P0116,TrueNorth Smartwatches 745,ELECTRONICS,Smartwatches,TrueNorth,12492.34,19869
+P0274,TrueNorth Soft Toys 238,Toys,Soft Toys,TrueNorth,2324.66,3759
+P0235,Zenith Beverages 111,Grocery,Beverages,Zenith,240.3,409
+P0278,BlueOak Board Games 173,Toys,Board Games,BlueOak,525.05,989
+P0220,Sparrow Staples 698,GROCERY,Staples,Sparrow,545.37,779
+P0078,KiteCo Formal Shoes 451,Footwear,Formal Shoes,KiteCo,3197.52,5729
+P0067,Aurora Sneakers 711,Footwear,Sneakers,Aurora,658.43,1239
+P0249,KiteCo Staples 901,Grocery,Staples,KiteCo,222.73,379
+P0101,Metro Chargers 512,Electronics,Chargers,Metro,15470.78,22719
+P0018,Sparrow Jackets 357,Apparel,Jackets,Sparrow,1930.41,2609
+P0190,Zenith Fragrance 579,Beauty,Fragrance,Zenith,961.46,1289
+P0200,TrueNorth Makeup 640,Beauty,Makeup,TrueNorth,249.41,469
+P0248,Aurora Organic 114,Grocery,Organic,Aurora,352.65,549
+P0218,BlueOak Staples 638,Grocery,Staples,BlueOak,446.05,759
+P0289,Metro Board Games 513,Toys,Board Games,Metro,1425.92,1989
+P0259,Sparrow Outdoor 853,Toys,Outdoor,,206.86,339
+P0016,Zenith T-Shirts 593,apparel,T-Shirts,Zenith,1590.66,2619
+P0201,UrbanEdge Fragrance 554,Beauty,Fragrance,UrbanEdge,418.26,569
+P0260,BlueOak Board Games 479,Toys,Board Games,BlueOak,2195.97,3069
+P0164,Sparrow Cookware 981,Home & Kitchen,Cookware,Sparrow,689.79,1319
+P0187,UrbanEdge Makeup 523,BEAUTY,Makeup,UrbanEdge,823.48,1469
+P0181,UrbanEdge Makeup 979,Beauty,Makeup,UrbanEdge,1603.0,2549
+P0227,BlueOak Staples 201,Grocery,Staples,BlueOak,374.68,609
+P0287,NovaWear Educational 751,Toys,Educational,NovaWear,2048.24,3229
+P0210,Sparrow Makeup 651,Beauty,Makeup,Sparrow,470.94,739
+P0186,PureLife Makeup 649,Beauty ,Makeup,PureLife,1581.55,2489
+P0049,PureLife Formal Shoes 105,Footwear ,Formal Shoes,PureLife,3566.25,5009
+P0136,Sparrow Storage 730,Home & Kitchen,Storage,Sparrow,2537.55,3829
+P0165,NovaWear Storage 870,Home & Kitchen,Storage,NovaWear,245.03,479
+P0270,Sparrow Board Games 174,Toys,Board Games,Sparrow,864.12,1349
+P0093,KiteCo Headphones 321,Electronics,Headphones,KiteCo,10900.45,21129
+P0096,Aurora Chargers 585,Electronics,Chargers,Aurora,10331.38,15609
+P0192,Zenith Haircare 803,Beauty,Haircare,Zenith,1539.67,2489
+P0003,PureLife Jackets 102,Apparel,Jackets,PureLife,1764.65,2729
+P0110,Sparrow Speakers 629,Electronics,Speakers,Sparrow,16200.75,22759
+P0106,KiteCo Speakers 339,Electronics,Speakers,KiteCo,4427.87,6959
+P0244,UrbanEdge Staples 302,Grocery,Staples,UrbanEdge,90.57,139
+P0237,Aurora Organic 870,Grocery,Organic,Aurora,484.4,719
+P0082,NovaWear Sports Shoes 406,Footwear,Sports Shoes,NovaWear,3225.66,4889
+P0089,BlueOak Power Banks 293,Electronics,Power Banks,BlueOak,4000.73,7499
+P0166,Aurora Cookware 834,Home & Kitchen,Cookware,Aurora,5283.81,7399
+P0292,NovaWear Soft Toys 139,Toys,Soft Toys,NovaWear,1308.25,1949
+P0118,PureLife Headphones 574,Electronics,Headphones,PureLife,13241.63,24569
+P0153,BlueOak Bedding 131,Home & Kitchen,Bedding,BlueOak,1380.45,2269
+P0126,BlueOak Speakers 411,Electronics,Speakers,BlueOak,3051.79,5369
+P0269,Aurora Board Games 362,Toys,Board Games,Aurora,692.84,1249
+P0171,PureLife Appliances 493,Home & Kitchen,Appliances,PureLife,2509.85,4979
+P0299,KiteCo Educational 291,Toys,Educational,KiteCo,1634.23,2289
+P0104,Zenith Smartwatches 541,Electronics,Smartwatches,Zenith,2934.36,4279
+P0151,PureLife Appliances 218,Home & Kitchen,Appliances,,861.11,1189
+P0148,Aurora Bedding 262,Home & Kitchen,Bedding,Aurora,4190.23,6719
+P0147,Zenith Cookware 346,Home & Kitchen,Cookware,Zenith,2675.84,4399
+P0065,Sparrow Sports Shoes 450,Footwear,Sports Shoes,Sparrow,1682.99,2319
+P0131,Zenith Cookware 877,Home & Kitchen,Cookware,Zenith,7079.29,9889
+P0127,NovaWear Smartwatches 843,Electronics ,Smartwatches,NovaWear,10379.39,14749
+P0132,Sparrow Storage 633,HOME & KITCHEN,Storage,Sparrow,7141.46,9649
+P0133,PureLife Appliances 129,Home & Kitchen,Appliances,PureLife,4694.7,6419
+P0275,UrbanEdge Educational 668,Toys,Educational,UrbanEdge,2258.83,3229
+P0125,Aurora Speakers 359,Electronics,Speakers,Aurora,2331.22,3759
+P0213,TrueNorth Haircare 228,Beauty,Haircare,TrueNorth,711.22,999
+P0017,Metro Jeans 790,Apparel,Jeans,Metro,1606.89,3029
+P0137,Zenith Bedding 846,Home & Kitchen,Bedding,Zenith,1128.32,1769
+P0140,Zenith Storage 568,Home & Kitchen,Storage,Zenith,6489.34,9639
+P0174,Sparrow Fragrance 225,Beauty,Fragrance,Sparrow,1177.47,1869
+P0206,Zenith Makeup 204,Beauty,Makeup,Zenith,1064.64,1489
+P0290,Aurora Board Games 224,Toys,Board Games,Aurora,1923.9,2909
+P0296,Aurora Soft Toys 995,Toys,Soft Toys,Aurora,320.15,539
+P0120,TrueNorth Power Banks 672,Electronics,Power Banks,TrueNorth,6757.8,10719
+P0280,PureLife Educational 769,Toys,Educational,PureLife,1603.61,3069
+P0268,UrbanEdge Board Games 475,Toys,Board Games,UrbanEdge,1156.45,1559
+P0095,NovaWear Chargers 490,Electronics,Chargers,NovaWear,8887.06,12369
+P0173,TrueNorth Fragrance 126,Beauty,Fragrance,TrueNorth,552.61,909
+P0041,NovaWear Kurtas 660,apparel,Kurtas,,1015.61,1819
+P0208,Aurora Makeup 269,Beauty,Makeup,Aurora,531.06,789
+P0294,KiteCo Soft Toys 868,Toys,Soft Toys,,1645.04,2859
+P0273,PureLife Educational 292,Toys,Educational,PureLife,1500.45,2429
+P0211,Metro Makeup 348,Beauty,Makeup,Metro,1249.53,2129
+P0086,Zenith Sandals 850,footwear,Sandals,Zenith,3056.87,5809
+P0172,KiteCo Cookware 346,Home & Kitchen,Cookware,KiteCo,3786.36,5439
+P0033,Zenith Jeans 712,Apparel ,Jeans,Zenith,1291.52,2089
+P0087,UrbanEdge Speakers 855,Electronics,Speakers,UrbanEdge,4901.11,8669
+P0039,TrueNorth T-Shirts 924,Apparel,T-Shirts,,1195.68,1939
+P0069,PureLife Sports Shoes 893,Footwear,Sports Shoes,PureLife,1831.86,2639
+P0214,UrbanEdge Makeup 726,Beauty,Makeup,UrbanEdge,1950.25,2959
+P0129,Sparrow Power Banks 710,Electronics,Power Banks,Sparrow,1705.92,2719
+P0048,Metro Sports Shoes 222,FOOTWEAR,Sports Shoes,Metro,975.61,1549
+P0004,NovaWear Dresses 560,Apparel,Dresses,NovaWear,371.1,649
+P0240,Zenith Beverages 640,Grocery,Beverages,Zenith,442.17,679
+P0230,NovaWear Beverages 663,Grocery,Beverages,NovaWear,110.37,179
+P0251,Sparrow Snacks 912,Grocery,Snacks,Sparrow,446.75,779
+P0293,Zenith Outdoor 934,Toys,Outdoor,Zenith,915.01,1529
+P0222,BlueOak Beverages 584,Grocery,Beverages,BlueOak,142.58,229
+P0088,KiteCo Power Banks 402,Electronics,Power Banks,KiteCo,9152.72,16719
+P0040,BlueOak Jeans 738,Apparel ,Jeans,BlueOak,553.69,879
+P0152,Zenith Cookware 217,Home & Kitchen,Cookware,Zenith,2497.52,3729
+P0205,KiteCo Makeup 556,Beauty,Makeup,KiteCo,1570.41,2219
+P0199,Sparrow Makeup 778,Beauty,Makeup,Sparrow,1235.57,2289
+P0144,Aurora Appliances 249,Home & Kitchen,Appliances,Aurora,4151.12,6899
+P0075,Aurora Formal Shoes 157,Footwear,Formal Shoes,Aurora,1536.84,2439
+P0254,Zenith Beverages 150,Grocery,Beverages,Zenith,118.96,229
+P0058,NovaWear Formal Shoes 340,Footwear,Formal Shoes,NovaWear,1430.45,2839
+P0225,NovaWear Organic 526,Grocery,Organic,NovaWear,368.37,559
+P0196,PureLife Fragrance 411,Beauty ,Fragrance,PureLife,492.68,829
+P0180,UrbanEdge Skincare 464,Beauty,Skincare,UrbanEdge,1726.78,2709
+P0229,NovaWear Organic 454,Grocery,Organic,NovaWear,184.85,339
+P0031,Aurora T-Shirts 258,Apparel,T-Shirts,Aurora,2016.98,2729
+P0262,Zenith Educational 721,Toys,Educational,Zenith,1961.96,2629
+P0057,UrbanEdge Formal Shoes 521,Footwear,Formal Shoes,UrbanEdge,828.56,1469
+P0295,Sparrow Outdoor 542,Toys,Outdoor,Sparrow,909.12,1289
+P0142,Sparrow Bedding 129,Home & Kitchen,Bedding,Sparrow,2825.41,4309
+P0185,Sparrow Haircare 343,Beauty,Haircare,Sparrow,1075.26,1709
+P0097,Aurora Speakers 799,Electronics,Speakers,Aurora,2178.26,3459
+P0139,Zenith Cookware 242,Home & Kitchen,Cookware,Zenith,1735.43,3019
+P0054,BlueOak Sneakers 275,Footwear,Sneakers,BlueOak,2525.67,4819
+P0117,Sparrow Chargers 887,Electronics,Chargers,Sparrow,1634.98,2429
+P0217,TrueNorth Staples 618,Grocery,Staples,TrueNorth,515.96,729
+P0161,TrueNorth Cookware 211,Home & Kitchen,Cookware,TrueNorth,715.3,979
+P0219,BlueOak Beverages 737,Grocery,Beverages,BlueOak,37.25,59
+P0024,UrbanEdge Jackets 951,Apparel,Jackets,UrbanEdge,1853.79,2899
+P0130,Aurora Storage 285,Home & Kitchen,Storage,Aurora,3351.64,5039
+P0119,KiteCo Smartwatches 186,ELECTRONICS,Smartwatches,KiteCo,8329.82,15349
+P0035,Zenith Dresses 632,Apparel,Dresses,Zenith,813.46,1349
+P0221,UrbanEdge Organic 209,Grocery,Organic,UrbanEdge,239.33,349
+P0267,Metro Educational 495,Toys,Educational,Metro,167.72,319
+P0039,TrueNorth T-Shirts 924,Apparel,T-Shirts,,1195.68,1939
+P0140,Zenith Storage 568,Home & Kitchen,Storage,Zenith,6489.34,9639
+P0158,Aurora Cookware 873,Home & Kitchen,Cookware,Aurora,6227.16,9329
+P0006,Aurora Jackets 924,Apparel,Jackets,Aurora,878.33,1179
+P0276,KiteCo Educational 585,Toys,Educational,KiteCo,1902.96,3419
+P0038,Metro Dresses 433,Apparel,Dresses,Metro,1253.54,1869
+P0291,PureLife Educational 384,Toys,Educational,PureLife,393.08,649
+P0207,KiteCo Skincare 829,Beauty,Skincare,KiteCo,544.73,729
+P0266,Aurora Outdoor 263,Toys,Outdoor,Aurora,1176.99,2189
+P0285,Aurora Outdoor 994,Toys ,Outdoor,Aurora,1453.4,2819
+P0100,Sparrow Smartwatches 439,Electronics,Smartwatches,Sparrow,2809.04,4619
+P0198,PureLife Haircare 780,Beauty,Haircare,PureLife,1417.33,2189
+P0228,Sparrow Snacks 980,Grocery,Snacks,Sparrow,410.2,749
+P0231,UrbanEdge Organic 802,Grocery,Organic,UrbanEdge,367.05,689
+P0236,KiteCo Beverages 894,Grocery,Beverages,KiteCo,390.07,559
+P0141,Zenith Bedding 796,Home & Kitchen,Bedding,Zenith,1082.78,2109
+P0252,KiteCo Snacks 493,Grocery,Snacks,KiteCo,86.82,149
+P0015,Sparrow Jeans 786,Apparel,Jeans,Sparrow,2176.86,2939
+P0114,PureLife Speakers 751,Electronics,Speakers,PureLife,4481.98,8799
